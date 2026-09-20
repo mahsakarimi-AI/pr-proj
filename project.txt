@@ -2,3 +2,5 @@ GitHub Pull Request Demo
 Version 1.0
 This change was added via a Pull Request.
 This is the second update to the Pull Request.
+GitHub Code Review Practice
+This section demonstrates comments, requested changes, updates, and final approval in the review workflow.
